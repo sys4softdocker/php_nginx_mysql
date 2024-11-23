@@ -1,8 +1,8 @@
 # PHP + NGINX + MYSQL
 Infraestrutura Docker-compose para criação de ambiente local de desenvolvimento em ecossistema PHP.
 
-> PHP 8.3
-> MySQL 8.4.3
+- PHP 8.3
+- MySQL 8.4.3
 
 # Instruções de uso
 - Fazer o download do repositório para Windows WSL / Linux / MacOS (garantir que o Docker está disponível no sistema)
